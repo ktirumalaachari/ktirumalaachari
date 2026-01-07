@@ -1,3 +1,4 @@
+[![MasterHead](./gitbanner.png)]
 <p align="center">
   <!-- Animated typing title -->
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=4CF7FF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+K.Tirumala+Achari;%E2%9A%80%EF%B8%8F+Full_Stack_Developer+%7C+Java+%7C+Python+%7C+MongoDB" alt="typing">
