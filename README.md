@@ -47,12 +47,6 @@
 <img src="https://raw.githubusercontent.com/lasantha746/lasantha746/main/icons/python.svg" width="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktirumalaachari" />
-</p>
-
----
-
 ### 🚀 Popular Projects
 - 🎵 **Spotify Clone** – HTML, CSS, JavaScript  
 - 🌐 **Developer Portfolio** – Personal Portfolio Website  
