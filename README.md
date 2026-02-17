@@ -1,4 +1,4 @@
-![MasterHead](./)
+![MasterHead](./gitbanner.png)
 
 <h1 align="center">Hi 👋, I'm K Tirumala Achari</h1>
 <h3 align="center">A Full-Stack Developer from Odisha</h3>
