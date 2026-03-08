@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LeetCode%20Journey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
+
 ![MasterHead](./gitbanner.png)
 
 <div align="center">
