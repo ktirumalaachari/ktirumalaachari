@@ -475,5 +475,3 @@ I'm always excited to collaborate on innovative projects and discuss technology!
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,45:0D3320,100:0D1117&height=105&section=footer" alt="Footer decoration" />
 
 </div>
-
-</div>
