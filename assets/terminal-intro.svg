@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="300" viewBox="0 0 650 300">
+
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#121214"/>
+      <stop offset="100%" style="stop-color:#0d0d0f"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Terminal Window -->
+  <rect x="0" y="0" width="650" height="300" rx="12" ry="12"
+        fill="url(#termBg)" stroke="#2b2b30" stroke-width="1"/>
+
+  <!-- Terminal Title Bar -->
+  <rect x="0" y="0" width="650" height="36" rx="12" ry="12" fill="#101012"/>
+  <rect x="0" y="24" width="650" height="12" fill="#101012"/>
+
+  <!-- Window Controls -->
+  <circle cx="20" cy="18" r="6" fill="#ff4d00"/>
+  <circle cx="40" cy="18" r="6" fill="#a39c92"/>
+  <circle cx="60" cy="18" r="6" fill="#ffffff"/>
+
+  <!-- Terminal Title -->
+  <text x="325" y="23"
+        text-anchor="middle"
+        font-family="'SF Mono', 'Consolas', monospace"
+        font-size="12"
+        fill="#6e685f">
+    ktirumalaachari
+  </text>
+
+  <!-- Terminal Content -->
+  <g font-family="'SF Mono', 'JetBrains Mono', 'Consolas', monospace"
+     font-size="13">
+
+    <!-- Profile Code -->
+    <text x="20" y="65" fill="#ff4d00">const</text>
+    <text x="75" y="65" fill="#ff8a5c">Tirumala</text>
+    <text x="145" y="65" fill="#f2ede3">=</text>
+    <text x="160" y="65" fill="#ff4d00">{</text>
+
+    <text x="35" y="87" fill="#ff4d00">location</text>
+    <text x="105" y="87" fill="#a39c92">:</text>
+    <text x="115" y="87" fill="#ffffff">"Berhampur, Odisha 📍"</text>
+    <text x="300" y="87" fill="#a39c92">,</text>
+
+    <text x="35" y="109" fill="#ff4d00">education</text>
+    <text x="115" y="109" fill="#a39c92">:</text>
+    <text x="125" y="109" fill="#ffffff">"B.Tech CSE @ NIST University 🎓"</text>
+    <text x="390" y="109" fill="#a39c92">,</text>
+
+    <text x="35" y="131" fill="#ff4d00">educationStatus</text>
+    <text x="170" y="131" fill="#a39c92">:</text>
+    <text x="180" y="131" fill="#ffffff">"B.Tech CSE (2022-2026)"</text>
+    <text x="385" y="131" fill="#a39c92">,</text>
+
+    <text x="35" y="153" fill="#ff4d00">cgpa</text>
+    <text x="75" y="153" fill="#a39c92">:</text>
+    <text x="85" y="153" fill="#ffffff">"7.5/10"</text>
+    <text x="160" y="153" fill="#a39c92">,</text>
+
+    <text x="35" y="175" fill="#ff4d00">focus</text>
+    <text x="85" y="175" fill="#a39c92">:</text>
+    <text x="95" y="175" fill="#ffffff">"Full-Stack Development, AI Integration &amp; Problem Solving"</text>
+    <text x="620" y="175" fill="#a39c92">,</text>
+
+    <text x="35" y="197" fill="#ff4d00">passion</text>
+    <text x="100" y="197" fill="#a39c92">:</text>
+    <text x="110" y="197" fill="#ffffff">"Building user-centric technological solutions"</text>
+    <text x="490" y="197" fill="#a39c92">,</text>
+
+    <text x="35" y="219" fill="#ff4d00">currentFocus</text>
+    <text x="135" y="219" fill="#a39c92">:</text>
+    <text x="145" y="219" fill="#ffffff">"MERN, AI Engineering &amp; Scalable Systems"</text>
+    <text x="500" y="219" fill="#a39c92">,</text>
+
+    <text x="35" y="241" fill="#ff4d00">availability</text>
+    <text x="130" y="241" fill="#a39c92">:</text>
+    <text x="140" y="241" fill="#ffffff">"Open to opportunities 🌟"</text>
+    <text x="350" y="241" fill="#a39c92">,</text>
+
+    <text x="20" y="263" fill="#ff4d00">};</text>
+
+    <!-- New Command Line -->
+    <text x="20" y="285" fill="#ff4d00">❯</text>
+    <rect x="40" y="275" width="10" height="16" fill="#ff4d00">
+      <animate attributeName="opacity"
+               values="1;0;1"
+               dur="1s"
+               repeatCount="indefinite"/>
+    </rect>
+
+  </g>
+</svg>
